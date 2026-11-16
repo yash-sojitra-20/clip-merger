@@ -1,0 +1,41 @@
+# Binaries
+bin/
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test and coverage artifacts
+*.out
+cover.out
+coverage.html
+
+# Local environment and secret files
+.env
+.env.local
+*.pem
+credentials.json
+client_secret*.json
+token.json
+
+# Temporary processing files and video output
+tmp/
+data/
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.webm
+
+# IDE and Editor files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
